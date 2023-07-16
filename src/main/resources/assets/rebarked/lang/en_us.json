@@ -1,3 +1,11 @@
 {
-  "item.rebarked.oak_bark": "Oak Bark"
+  "item.rebarked.oak_bark": "Oak Bark",
+  "item.rebarked.birch_bark": "Birch Bark",
+  "item.rebarked.jungle_bark": "Jungle Bark",
+  "item.rebarked.dark_oak_bark": "Dark Oak Bark",
+  "item.rebarked.spruce_bark": "Spruce Bark",
+  "item.rebarked.mangrove_bark": "Mangrove Bark",
+  "item.rebarked.cherry_bark": "Cherry Bark",
+  "item.rebarked.warped_bark": "Warped Bark",
+  "item.rebarked.crimson_bark": "Crimson Bark"
 }

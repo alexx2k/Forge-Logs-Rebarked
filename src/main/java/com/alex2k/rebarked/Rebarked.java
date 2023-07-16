@@ -40,6 +40,14 @@ public class Rebarked {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.OAK_BARK);
+            event.accept(ModItems.BIRCH_BARK);
+            event.accept(ModItems.JUNGLE_BARK);
+            event.accept(ModItems.SPRUCE_BARK);
+            event.accept(ModItems.DARK_OAK_BARK);
+            event.accept(ModItems.CHERRY_BARK);
+            event.accept(ModItems.MANGROVE_BARK);
+            event.accept(ModItems.WARPED_BARK);
+            event.accept(ModItems.CRIMSON_BARK);
         }
 
     }

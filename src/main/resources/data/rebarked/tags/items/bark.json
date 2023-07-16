@@ -1,5 +1,13 @@
 {
   "values": [
-    "rebarked:oak_bark"
+    "rebarked:oak_bark",
+    "rebarked:birch_bark",
+    "rebarked:spruce_bark",
+    "rebarked:dark_oak_bark",
+    "rebarked:jungle_bark",
+    "rebarked:mangrove_bark",
+    "rebarked:cherry_bark",
+    "rebarked:crimson_bark",
+    "rebarked:warped_bark"
   ]
 }
